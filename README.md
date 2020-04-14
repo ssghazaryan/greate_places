@@ -1,6 +1,6 @@
 # GreatPlaces
 
-A new Flutter project for taking photo with adding location and store to divice memory. Ios and android.
+A new Flutter project for taking photo with adding location and store to divice memory.
 
 ## Getting Started
 
