@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationAlwaysUsageDescription</key>	
+	<string>Need to get location!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need to get location!</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>For taking video</string>
 	<key>NSCameraUsageDescription</key>
@@ -47,5 +51,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
 </dict>
 </plist>
