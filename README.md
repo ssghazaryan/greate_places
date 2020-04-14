@@ -4,6 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application for Ios and android.
 
-Working with providers, paths, sqlite database, location services, google maps, rest apis, camera, files, images.  
+Working with cases like:
+    - providers, 
+    - paths,
+    - sqlite database,
+    - location services,
+    - google maps, 
+    - rest apis, 
+    - device features,
+    - camera,
+    - files system,
+    - images,
+    - navigtion ...
+
+For correct work with maps need to change api_token.
